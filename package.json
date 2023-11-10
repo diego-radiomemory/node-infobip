@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kosinix/node-infobip.git"
+    "url": "git+https://github.com/diego-radiomemory/node-infobip.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kosinix/node-infobip/issues"
+    "url": "https://github.com/diego-radiomemory/node-infobip/issues"
   },
-  "homepage": "https://github.com/kosinix/node-infobip#readme",
+  "homepage": "https://github.com/diego-radiomemory/node-infobip#readme",
   "dependencies": {
     "axios": "^0.24.0"
   },
